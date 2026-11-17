@@ -1,0 +1,502 @@
+{
+  "profiles": {
+    "p_mwjhwom1_npwh": {
+      "id": "p_mwjhwom1_npwh",
+      "name": "Morador_Oasis",
+      "bio": "Pronto para curtir a Praça Central!",
+      "moedas": 450,
+      "gemas": 15,
+      "stepsWalked": 0,
+      "avatar": {
+        "gender": "feminino",
+        "skinTone": "#e09664",
+        "hairStyle": "coque_alto",
+        "hairColor": "#1e1b26",
+        "eyeColor": "#1a1523",
+        "tattoo": false,
+        "shirtId": "shirt_top_branco",
+        "pantsId": "pants_shorts_branco",
+        "shoesId": null,
+        "accessoryId": null
+      },
+      "inventory": [
+        {
+          "instanceId": "inv_1794847581483_loge6",
+          "itemId": "pants_shorts_branco",
+          "obtainedAt": 1794847581483
+        },
+        {
+          "instanceId": "inv_1794847581483_hv9qx",
+          "itemId": "shoes_chinelo",
+          "obtainedAt": 1794847581483
+        },
+        {
+          "instanceId": "inv_1794847581483_ocb5l",
+          "itemId": "furn_cama_oasis",
+          "obtainedAt": 1794847581483
+        },
+        {
+          "instanceId": "inv_1794847581483_w3csn",
+          "itemId": "furn_planta",
+          "obtainedAt": 1794847581483
+        },
+        {
+          "instanceId": "inv_1794847581483_h88on",
+          "itemId": "furn_tapete",
+          "obtainedAt": 1794847581483
+        }
+      ],
+      "roomFurniture": [
+        {
+          "instanceId": "inv_1794847581483_h88on",
+          "itemId": "furn_tapete",
+          "x": 4,
+          "y": 4,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794847581483_ocb5l",
+          "itemId": "furn_cama_oasis",
+          "x": 2,
+          "y": 2,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794847581483_w3csn",
+          "itemId": "furn_planta",
+          "x": 7,
+          "y": 2,
+          "rotation": 0
+        }
+      ],
+      "roomTheme": "madeira_classica",
+      "friends": [
+        {
+          "id": "npc_luna",
+          "name": "Luna_04"
+        }
+      ],
+      "quests": [
+        {
+          "id": "q_steps",
+          "title": "Explorador de Oasis",
+          "description": "Caminhe 60 passos pelos espaços da cidade.",
+          "metric": "steps",
+          "target": 60,
+          "progress": 0,
+          "rewardCoins": 65,
+          "rewardGems": 2,
+          "claimed": false
+        },
+        {
+          "id": "q_friends",
+          "title": "Novas Amizades",
+          "description": "Adicione 1 amigo na Praça ou em qualquer ambiente.",
+          "metric": "friends",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 80,
+          "rewardGems": 3,
+          "claimed": false
+        },
+        {
+          "id": "q_chat",
+          "title": "Papo na Praça",
+          "description": "Envie 3 mensagens no chat local de qualquer sala.",
+          "metric": "messages",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 45,
+          "rewardGems": 1,
+          "claimed": false
+        },
+        {
+          "id": "q_work",
+          "title": "Turno Free-to-Play",
+          "description": "Complete 1 turno de trabalho em um minigame.",
+          "metric": "minigames",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 55,
+          "rewardGems": 2,
+          "claimed": false
+        },
+        {
+          "id": "q_trade",
+          "title": "Comerciante Nato",
+          "description": "Compre, venda ou negocie 1 item na Loja ou Bazar.",
+          "metric": "trades_or_buys",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 70,
+          "rewardGems": 3,
+          "claimed": false
+        }
+      ]
+    },
+    "p_mwjibxjz_co8a": {
+      "id": "p_mwjibxjz_co8a",
+      "name": "Morador_Oasis",
+      "bio": "Pronto para curtir a Praça Central!",
+      "moedas": 543,
+      "gemas": 17,
+      "stepsWalked": 0,
+      "avatar": {
+        "gender": "masculino",
+        "skinTone": "#e09664",
+        "hairStyle": "topete_fade",
+        "hairColor": "#1e1b26",
+        "eyeColor": "#1a1523",
+        "tattoo": true,
+        "shirtId": "shirt_sem",
+        "pantsId": "pants_shorts_branco",
+        "shoesId": "shoes_chinelo",
+        "accessoryId": null
+      },
+      "inventory": [
+        {
+          "instanceId": "inv_1794848422938_f3ijq",
+          "itemId": "pants_shorts_branco",
+          "obtainedAt": 1794848422938
+        },
+        {
+          "instanceId": "inv_1794848422938_snkmo",
+          "itemId": "shoes_chinelo",
+          "obtainedAt": 1794848422938
+        },
+        {
+          "instanceId": "inv_1794848422938_m4n5i",
+          "itemId": "furn_cama_oasis",
+          "obtainedAt": 1794848422938
+        },
+        {
+          "instanceId": "inv_1794848422938_jybjy",
+          "itemId": "furn_planta",
+          "obtainedAt": 1794848422938
+        },
+        {
+          "instanceId": "inv_1794848422938_ck47x",
+          "itemId": "furn_tapete",
+          "obtainedAt": 1794848422938
+        }
+      ],
+      "roomFurniture": [
+        {
+          "instanceId": "inv_1794848422938_ck47x",
+          "itemId": "furn_tapete",
+          "x": 4,
+          "y": 4,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794848422938_m4n5i",
+          "itemId": "furn_cama_oasis",
+          "x": 2,
+          "y": 2,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794848422938_jybjy",
+          "itemId": "furn_planta",
+          "x": 7,
+          "y": 2,
+          "rotation": 0
+        }
+      ],
+      "roomTheme": "madeira_classica",
+      "friends": [
+        {
+          "id": "npc_luna",
+          "name": "Luna_04"
+        }
+      ],
+      "quests": [
+        {
+          "id": "q_steps",
+          "title": "Explorador de Oasis",
+          "description": "Caminhe 60 passos pelos espaços da cidade.",
+          "metric": "steps",
+          "target": 60,
+          "progress": 0,
+          "rewardCoins": 65,
+          "rewardGems": 2,
+          "claimed": false
+        },
+        {
+          "id": "q_friends",
+          "title": "Novas Amizades",
+          "description": "Adicione 1 amigo na Praça ou em qualquer ambiente.",
+          "metric": "friends",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 80,
+          "rewardGems": 3,
+          "claimed": false
+        },
+        {
+          "id": "q_chat",
+          "title": "Papo na Praça",
+          "description": "Envie 3 mensagens no chat local de qualquer sala.",
+          "metric": "messages",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 45,
+          "rewardGems": 1,
+          "claimed": false
+        },
+        {
+          "id": "q_work",
+          "title": "Turno Free-to-Play",
+          "description": "Complete 1 turno de trabalho em um minigame.",
+          "metric": "minigames",
+          "target": 1,
+          "progress": 1,
+          "rewardCoins": 55,
+          "rewardGems": 2,
+          "claimed": true
+        },
+        {
+          "id": "q_trade",
+          "title": "Comerciante Nato",
+          "description": "Compre, venda ou negocie 1 item na Loja ou Bazar.",
+          "metric": "trades_or_buys",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 70,
+          "rewardGems": 3,
+          "claimed": false
+        }
+      ]
+    },
+    "p_mwjowzps_7t9b": {
+      "id": "p_mwjowzps_7t9b",
+      "name": "Morador_Oasis",
+      "bio": "Pronto para curtir a Praça Central!",
+      "moedas": 465,
+      "gemas": 15,
+      "stepsWalked": 17,
+      "avatar": {
+        "gender": "masculino",
+        "skinTone": "#e09664",
+        "hairStyle": "topete_fade",
+        "hairColor": "#1e1b26",
+        "eyeColor": "#1a1523",
+        "tattoo": true,
+        "shirtId": "shirt_sem",
+        "pantsId": "pants_shorts_branco",
+        "shoesId": "shoes_chinelo",
+        "accessoryId": null
+      },
+      "inventory": [
+        {
+          "instanceId": "inv_1794859380555_2sian",
+          "itemId": "pants_shorts_branco",
+          "obtainedAt": 1794859380555
+        },
+        {
+          "instanceId": "inv_1794859380555_ieclk",
+          "itemId": "shoes_chinelo",
+          "obtainedAt": 1794859380555
+        },
+        {
+          "instanceId": "inv_1794859380555_95nm1",
+          "itemId": "rust_03",
+          "obtainedAt": 1794859380555
+        },
+        {
+          "instanceId": "inv_1794859380555_sipdd",
+          "itemId": "rust_30",
+          "obtainedAt": 1794859380555
+        },
+        {
+          "instanceId": "inv_1794859380555_fvm8q",
+          "itemId": "rust_41",
+          "obtainedAt": 1794859380555
+        }
+      ],
+      "roomFurniture": [
+        {
+          "instanceId": "inv_1794859380555_fvm8q",
+          "itemId": "rust_41",
+          "x": 5,
+          "y": 5,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794859380555_95nm1",
+          "itemId": "rust_03",
+          "x": 3,
+          "y": 3,
+          "rotation": 0
+        },
+        {
+          "instanceId": "inv_1794859380555_sipdd",
+          "itemId": "rust_30",
+          "x": 8,
+          "y": 3,
+          "rotation": 0
+        }
+      ],
+      "roomTheme": "madeira_classica",
+      "plotTiles": [
+        "3,3",
+        "3,4",
+        "3,5",
+        "3,6",
+        "3,7",
+        "3,8",
+        "4,3",
+        "4,4",
+        "4,5",
+        "4,6",
+        "4,7",
+        "4,8",
+        "5,3",
+        "5,4",
+        "5,5",
+        "5,6",
+        "5,7",
+        "5,8",
+        "6,3",
+        "6,4",
+        "6,5",
+        "6,6",
+        "6,7",
+        "6,8",
+        "7,3",
+        "7,4",
+        "7,5",
+        "7,6",
+        "7,7",
+        "7,8",
+        "8,3",
+        "8,4",
+        "8,5",
+        "8,6",
+        "8,7",
+        "8,8"
+      ],
+      "plotMaxBlocks": 36,
+      "needs": {
+        "energia": 100,
+        "fome": 82,
+        "diversao": 90,
+        "higiene": 90
+      },
+      "routineTasks": [
+        {
+          "id": "rt_arrumar",
+          "title": "Cuidar da casa (arrumar ou regar planta)",
+          "done": false,
+          "rewardCoins": 20
+        },
+        {
+          "id": "rt_descansar",
+          "title": "Descansar na cama ou sofá do seu espaço",
+          "done": true,
+          "rewardCoins": 15
+        },
+        {
+          "id": "rt_comer",
+          "title": "Tomar um café ou comer frutas na cidade",
+          "done": false,
+          "rewardCoins": 20
+        },
+        {
+          "id": "rt_trabalho",
+          "title": "Cumprir 1 turno de trabalho na rotina",
+          "done": false,
+          "rewardCoins": 25
+        }
+      ],
+      "friends": [],
+      "quests": [
+        {
+          "id": "q_steps",
+          "title": "Explorador de Oasis",
+          "description": "Caminhe 60 passos pelos espaços da cidade.",
+          "metric": "steps",
+          "target": 60,
+          "progress": 17,
+          "rewardCoins": 65,
+          "rewardGems": 2,
+          "claimed": false
+        },
+        {
+          "id": "q_friends",
+          "title": "Novas Amizades",
+          "description": "Adicione 1 amigo na Praça ou em qualquer ambiente.",
+          "metric": "friends",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 80,
+          "rewardGems": 3,
+          "claimed": false
+        },
+        {
+          "id": "q_chat",
+          "title": "Papo na Praça",
+          "description": "Envie 3 mensagens no chat local de qualquer sala.",
+          "metric": "messages",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 45,
+          "rewardGems": 1,
+          "claimed": false
+        },
+        {
+          "id": "q_work",
+          "title": "Turno Free-to-Play",
+          "description": "Complete 1 turno de trabalho em um minigame.",
+          "metric": "minigames",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 55,
+          "rewardGems": 2,
+          "claimed": false
+        },
+        {
+          "id": "q_trade",
+          "title": "Comerciante Nato",
+          "description": "Compre no Catálogo ou negocie 1 item no Bazar.",
+          "metric": "trades_or_buys",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 70,
+          "rewardGems": 3,
+          "claimed": false
+        }
+      ]
+    }
+  },
+  "marketListings": [
+    {
+      "listingId": "lst_seed_sofa",
+      "sellerId": "npc_lello",
+      "sellerName": "Lello",
+      "itemId": "furn_sofa_raro",
+      "instanceId": "seed_inst_sofa",
+      "priceCoins": 245,
+      "createdAt": 1794846903794
+    },
+    {
+      "listingId": "lst_seed_jacket",
+      "sellerId": "npc_magnus",
+      "sellerName": "MagnuS",
+      "itemId": "shirt_jaqueta_cyber",
+      "instanceId": "seed_inst_jacket",
+      "priceCoins": 215,
+      "createdAt": 1794847023794
+    },
+    {
+      "listingId": "lst_seed_glasses",
+      "sellerId": "npc_dudurp",
+      "sellerName": "DuduRP",
+      "itemId": "acc_oculos_escuros",
+      "instanceId": "seed_inst_glasses",
+      "priceCoins": 105,
+      "createdAt": 1794847143794
+    }
+  ],
+  "trades": {}
+}
